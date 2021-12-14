@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Emanuel-Leutgeb
 - 👀 I’m interested in C#; JAVA; MySQL; Synology;  
 - 🌱 I’m currently learning C#, JAVA, Python
-- 💞️ I’m looking to collaborate on C#; Backend Developer;
+- 💞️ I’m looking to collaborate on C#; JAVA; Backend Developer; Frontend Developer;
 - 📫 How to reach me just send me a Message.
 
 <!---
