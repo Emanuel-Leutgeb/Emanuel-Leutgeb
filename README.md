@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Emanuel-Leutgeb
-- 👀 I’m interested in C#; JAVA; MySQL; Synology; HTML5; CSS3; JS; PHP; Angular
-- 🌱 I’m currently learning @ Coders.Bay C#, JAVA, Python; HTML5; CSS3; JS; PHP;
-- 💞️ I’m looking to collaborate on Backend Developer; Frontend Developer;
+- 👀 I’m interested in C#; JAVA; MySQL; Synology; HTML5; CSS3; JS; PHP; Angular; Laravel;
+- 🌱 I’m currently learning @ Coders.Bay PHP; C#; JAVA; Python; HTML5; CSS3; JS; MySQL; MongoDB;
+- 💞️ I’m looking to collaborate on Backend Developer; Frontend Developer; Full Stack Developer;
 - 📫 How to reach me just send me a Message.
 
 <!---
